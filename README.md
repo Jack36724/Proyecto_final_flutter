@@ -12,9 +12,13 @@ aplicación móvil pensada para estudiantes donde puedan hacer sus anotaciones d
 - Device_preview
 
 # Comandos
-flutter pub get
-flutter run
+- flutter pub get
+- flutter run
 
 # Capturas
 ![Imagen1](https://github.com/user-attachments/assets/af73e13a-c8c9-4a43-8b53-22109abd3e89)
-![Imagen1](https://github.com/user-attachments/assets/af73e13a-c8c9-4a43-8b53-22109abd3e89)
+
+# .gitignore
+
+Este proyecto incluye un archivo `.gitignore` para no subir carpetas generadas automáticamente, archivos temporales o claves privadas como `.env`.
+
